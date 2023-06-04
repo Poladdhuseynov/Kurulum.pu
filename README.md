@@ -1,0 +1,2 @@
+# Kurulum.pu
+Kurulum.py
