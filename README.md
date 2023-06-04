@@ -1,2 +1,2 @@
-# Kurulum.pu
+# Kurulum.py
 Kurulum.py
